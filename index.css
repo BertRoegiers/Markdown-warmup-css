@@ -1,4 +1,13 @@
- h1 {color:slateblue}
- h1{text-shadow: 2px 2px green}
- h2 {color:red}
+ h1 {
+   color:slateblue;
+   text-shadow: 2px 2px green;
+   border-style: groove;
+   width: 700px;
+   margin-left:auto;
+   margin-right: auto;
+ }
+
+ h2 {
+   color:red;
+ }
  body {background-color:lightgrey}
