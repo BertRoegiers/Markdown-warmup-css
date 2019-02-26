@@ -5,9 +5,27 @@
    width: 700px;
    margin-left:auto;
    margin-right: auto;
- }
-
- h2 {
+   border-radius: 30px 30px 30px 30px;
+   background: yellow;
+   }
+a:link {
+  color: white;
+  background-color: black;
+  padding: 35px 50px
+  }
+h2 {
    color:red;
+   margin-left: 75px;
  }
- body {background-color:lightgrey}
+p {
+  margin-left: 75px;
+}
+ul {
+  margin-left: 100px;
+}
+body {background-color:lightgrey}
+img.displayed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
